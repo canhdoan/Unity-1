@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unchi.Plugins", "Unchi.Plugins.csproj", "{2111B5F8-7304-0971-C6B4-4BE5D599407D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unchi", "Unchi.csproj", "{E78310AE-A7DC-990A-EF4B-D634450C74E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unchi.Editor", "Unchi.Editor.csproj", "{C6F0F294-6518-1256-973E-4CE7ABC2205B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2111B5F8-7304-0971-C6B4-4BE5D599407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2111B5F8-7304-0971-C6B4-4BE5D599407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2111B5F8-7304-0971-C6B4-4BE5D599407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2111B5F8-7304-0971-C6B4-4BE5D599407D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78310AE-A7DC-990A-EF4B-D634450C74E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78310AE-A7DC-990A-EF4B-D634450C74E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78310AE-A7DC-990A-EF4B-D634450C74E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78310AE-A7DC-990A-EF4B-D634450C74E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F0F294-6518-1256-973E-4CE7ABC2205B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F0F294-6518-1256-973E-4CE7ABC2205B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F0F294-6518-1256-973E-4CE7ABC2205B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F0F294-6518-1256-973E-4CE7ABC2205B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
