@@ -219,7 +219,59 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FightingUnityChan_FreeAsset\FightingUnityChan_FreeAsset\Scripts\CameraController.cs" />
+    <Compile Include="Assets\FightingUnityChan_FreeAsset\FightingUnityChan_FreeAsset\Scripts\IdleChanger.cs" />
     <Compile Include="Assets\nav.cs" />
+    <Compile Include="Assets\PronamaChan\Scripts\BlendShapeValueChanger.cs" />
+    <Compile Include="Assets\PronamaChan\Scripts\EquipmentsChanger.cs" />
+    <Compile Include="Assets\PronamaChan\Scripts\Move.cs" />
+    <Compile Include="Assets\PronamaChan\Scripts\SpringBone.cs" />
+    <Compile Include="Assets\PronamaChan\Scripts\SpringCollider.cs" />
+    <Compile Include="Assets\PronamaChan\Scripts\SpringManager.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\Internal\SABoneColliderCommon.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\Internal\SAColliderBuilderCommon.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\Internal\SAMeshColliderCommon.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\SABoneCollider.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\SABoneColliderBuilder.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\SABoneColliderChild.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\SAMeshCollider.cs" />
+    <Compile Include="Assets\SAColliderBuilder\Scripts\SAMeshColliderBuilder.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\AutoBlink.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\FaceUpdate.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\IdleChanger.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\IKCtrlRightHand.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\RandomWind.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\SpringBone.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\SpringCollider.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\SpringManager.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\ThirdPersonCamera.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
+    <Compile Include="Assets\UnityChan\SplashScreen\Scripts\SplashScreen.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\PronamaChan\ReadMe_FolderStructure.txt" />
+    <None Include="Assets\PronamaChan\Shaders\DiffuseDoubleSide.shader" />
+    <None Include="Assets\PronamaChan\Shaders\StandardDoubleSide.shader" />
+    <None Include="Assets\PronamaChan\Shaders\ToonBasic.shader" />
+    <None Include="Assets\PronamaChan\Shaders\ToonBasicOutline.shader" />
+    <None Include="Assets\PronamaChan\Shaders\ToonLit.shader" />
+    <None Include="Assets\PronamaChan\Shaders\ToonLitOutline.shader" />
+    <None Include="Assets\PronamaChan\Shaders\UnlitTexture.shader" />
+    <None Include="Assets\SAColliderBuilder\Readme_en.txt" />
+    <None Include="Assets\SAColliderBuilder\Readme_jp.txt" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
+    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
+    <None Include="Assets\UnityChan\Stage\Shader\AlphaMask.shader" />
+    <None Include="Assets\UnityChan\Voice\unity-chan_voice_list.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
