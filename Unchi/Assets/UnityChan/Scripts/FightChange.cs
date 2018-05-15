@@ -24,7 +24,7 @@ public class FightChange : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Z))
         {
-            anim.SetBool("Run", true);
+            anim.SetBool("Hikick", true);
         }
         if (Input.GetKey(KeyCode.X))
         {
