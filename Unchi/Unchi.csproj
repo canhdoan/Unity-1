@@ -231,6 +231,7 @@
     <Compile Include="Assets\BattleSystem.cs" />
     <Compile Include="Assets\FightingUnityChan_FreeAsset\FightingUnityChan_FreeAsset\Scripts\CameraController.cs" />
     <Compile Include="Assets\FightingUnityChan_FreeAsset\FightingUnityChan_FreeAsset\Scripts\IdleChanger.cs" />
+    <Compile Include="Assets\Hikick.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
     <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
@@ -274,6 +275,7 @@
     <Compile Include="Assets\PronamaChan\Scripts\SpringBone.cs" />
     <Compile Include="Assets\PronamaChan\Scripts\SpringCollider.cs" />
     <Compile Include="Assets\PronamaChan\Scripts\SpringManager.cs" />
+    <Compile Include="Assets\Rising_P.cs" />
     <Compile Include="Assets\SapphiArt\SapphiArtchan\Scripts\AnimationManagerUI.cs" />
     <Compile Include="Assets\SapphiArt\SapphiArtchan\Scripts\SapphiArtChan_AnimManager.cs" />
     <Compile Include="Assets\StudioNewPunch\AmaneCheage.cs" />
